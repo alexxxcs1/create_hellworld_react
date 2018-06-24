@@ -3,7 +3,7 @@
 
 # 安装
 
-npm -i -g hellworldreact
+npm install -g hellworldreact
 
 # 使用
 
