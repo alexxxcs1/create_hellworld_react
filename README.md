@@ -8,7 +8,14 @@ npm install -g hellworldreact
 # 使用
 
 create_hellworld_react init [你的项目名称] 来初始化项目
-会自动初始化 https://github.com/alexxxcs1/react_demo 内的react项目
+
+##增加了不同的脚手架
+
+使用的之后会提示输入脚手架版本，默认是react_demo内的react模板，
+
+输入 `cr` 会初始化 https://github.com/alexxxcs1/custom_react 内的模板
+输入 `react_demo` 会自动初始化 https://github.com/alexxxcs1/react_demo 内的模板
+
 
 ## 注意
 
