@@ -8,7 +8,7 @@ const symbols = require('log-symbols');
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-program.version('1.0.3', '-v, --version')
+program.version('1.0.5', '-v, --version')
        .command('init <name>')
        .action((name) => {
             inquirer.prompt([
@@ -30,11 +30,11 @@ program.version('1.0.3', '-v, --version')
                             break;
                         case 'ic':
                             console.log(demourl,answers.ScaffoldingName);
-                            demourl = 'alexxxcs1/custom_react';
+                            demourl = 'alexxxcs1/ice_react';
                             break;
                         default:
                             console.log(demourl,answers.ScaffoldingName);
-                            demourl = 'alexxxcs1/ice_react';
+                            demourl = 'alexxxcs1/react_demo';
                             break;
                     }
                 }else{
