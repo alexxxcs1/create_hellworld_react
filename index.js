@@ -31,6 +31,7 @@ program.version('1.0.3', '-v, --version')
                         case 'ic':
                             console.log(demourl,answers.ScaffoldingName);
                             demourl = 'alexxxcs1/custom_react';
+                            break;
                         default:
                             console.log(demourl,answers.ScaffoldingName);
                             demourl = 'alexxxcs1/ice_react';
