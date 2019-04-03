@@ -1,9 +1,9 @@
 {
   "name": "hellworldreact",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "bin": {
-    "create_hellworld_react": "index.js"
+    "hellworld": "index.js"
   },
   "main": "index.js",
   "scripts": {
