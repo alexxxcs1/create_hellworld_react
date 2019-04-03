@@ -1,6 +1,6 @@
 {
   "name": "hellworldreact",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "bin": {
     "create_hellworld_react": "index.js"
